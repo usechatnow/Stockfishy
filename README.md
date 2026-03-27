@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![stockfish][stockfish128-logo]][website-link]
+
 
   <h3>stockfishy</h3>
 
